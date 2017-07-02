@@ -1,7 +1,12 @@
 # (Latent Dirichlet Allocation (LDA) Topic Model using Gibbs Sampling
 Use a Brown corpus to explore hidden topics for each document in the corpus
 
-## Explored topics:
+## Implementation and Visualization
+Look at "LDA_Gibbs.ipynb" for the implementation and visualization of the algorithm. 
+
+Other notebooks are just for comparision purpose
+
+## Explored topics
 Topics that are explored after running LDA:
 
 * topic 0 :af, temperature, surface, pressure, anode, atom, type, data, material, particle, cell, measurement, reaction, rate, effect, energy, activity, artery, small, radiation, 
@@ -18,11 +23,8 @@ Topics that are explored after running LDA:
 I propose the following themes for each topic:
 
 * topic 0: Energy and environment
-
 * topic 1: Sport
 * topic 2: Religon
 * topic 3: Love and Memories
 * topic 4: Forest and Nature
 * topic 5: Government and Politics
-
-Look at "LDA_Gibbs.ipynb" for the implementation and the analyst of the algorithm. Other notebooks are just for comparision purpose
