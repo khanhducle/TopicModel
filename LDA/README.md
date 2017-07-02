@@ -5,7 +5,6 @@ Use a Brown corpus to explore hidden topics for each document in the corpus
 Topics that are explored after running LDA:
 
 * topic 0 :af, temperature, surface, pressure, anode, atom, type, data, material, particle, cell, measurement, reaction, rate, effect, energy, activity, artery, small, radiation, 
-
 * topic 1 :game, john, du, year, motor, pont, league, linda, play, ball, run, snake, bobbie, general, length, stock, yard, hit, foot, record, 
 
 * topic 2 :church, god, world, christian, member, man, number, catholic, human, life, christ, england, membership, faith, death, fear, good, power, religious, history, 
