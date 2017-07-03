@@ -1,4 +1,4 @@
-# (Latent Dirichlet Allocation (LDA) Topic Model using Gibbs Sampling
+# Latent Dirichlet Allocation (LDA) Topic Model using Gibbs Sampling
 Use a Brown corpus to explore hidden topics for each document in the corpus
 
 ## Implementation and Visualization
